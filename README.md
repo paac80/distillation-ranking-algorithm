@@ -1,4 +1,4 @@
-# distillation_electre
+# distillation-ranking algorithm
 Distillation method to a complete or partial preorder
 
 ## Input 
