@@ -6,7 +6,7 @@ Description of the input and output data
 
 ### problem.txt
 4	#number of alternatives
-3	#number of criteria
+
 
 
 ### sigma.txt
@@ -20,5 +20,5 @@ s(am_a1) s(am_a2) ... s(am_am)
 
 
 ## Output 
-complete preorder
-partial preorder
+complete preorder.txt
+partial preorder.txt
